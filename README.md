@@ -1,4 +1,4 @@
-[# Frontend Mentor - Blog preview card](https://github.com/abbasalshalchi/blog-preview-card-main-frontend-mentor/deployments/github-pages)
+[# Frontend Mentor - Blog preview card]([https://github.com/abbasalshalchi/blog-preview-card-main-frontend-mentor/deployments/github-pages](https://abbasalshalchi.github.io/blog-preview-card-main-frontend-mentor/))
 
 ![Design preview for the Blog preview card coding challenge](./design/desktop-preview.jpg)
 
