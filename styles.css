@@ -1,0 +1,33 @@
+body {
+    display: flexbox;
+
+}
+
+body * {
+    display: block;
+}
+
+a {
+    display: inline;
+}
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
+
+#main {
+    display: flexbox;
+    border-color: black;
+    width: 50%;
+    height: 50%;
+}
+
+.image {
+    border-radius: 0.8rem;
+}
+
